@@ -11,7 +11,7 @@
         transition: all 0.7s ease-out;
     }
     .rightNav
-    {
+    { 
         text-align: center;
     }
     
@@ -42,6 +42,7 @@
 
     .section
     {
+        flex-wrap: wrap;
         flex-direction: column-reversed;
     }
 
